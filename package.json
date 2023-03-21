@@ -1,0 +1,29 @@
+{
+  "name": "GalackGenV2",
+  "version": "1.0.0",
+  "description": "GalackGenV2 - Générateur de compte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalackQSM/GalackGenV2.git"
+  },
+  "keywords": [],
+  "author": "GalackQSM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalackQSM/GalackGenV2/issues"
+  },
+  "homepage": "https://github.com/GalackQSM/GalackGenV2#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "chalk": "^4.1.0",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "firstline": "^2.0.2",
+    "line-reader": "^0.4.0",
+    "moment": "^2.29.1"
+  }
+}
